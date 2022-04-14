@@ -33,3 +33,4 @@
 # Ignore master key for decrypting credentials and more.
 /config/master.key
 /.idea/git_toolbox_prj.xml
+/.Documention/
